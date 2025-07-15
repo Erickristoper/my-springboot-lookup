@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/filterchain-demo/pom.xml" />
         <option value="$PROJECT_DIR$/oauth2-github/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-book/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-borrow/pom.xml" />
       </list>
     </option>
   </component>
