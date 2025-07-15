@@ -16,8 +16,7 @@ public class FilterDemoController {
 
     @GetMapping("/OncePerRequestFilter")
     public ResponseEntity<String> OncePerRequestFilter(@RequestAttribute("user") String user) {
-        return
-            ResponseEntity.ok().body("Hello " + user + "!");
+        return ResponseEntity.ok().body("Hello " + user + "!");
 
     }
 
