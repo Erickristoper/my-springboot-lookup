@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/filterchain-demo/filterchain-demo.iml" filepath="$PROJECT_DIR$/filterchain-demo/filterchain-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-springboot-lookup.iml" filepath="$PROJECT_DIR$/my-springboot-lookup.iml" />
     </modules>
   </component>
