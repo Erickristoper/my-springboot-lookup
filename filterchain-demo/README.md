@@ -20,11 +20,11 @@ When a request comes into a Spring web application, it goes through a series of 
    * Spring Web
 2. Create a custom filter
 
+```
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
-```mermaid
 public class CustomFilter implements Filter {
 
     @Override
@@ -43,7 +43,7 @@ public class CustomFilter implements Filter {
 ```
 
 3. Register the filter
-```mermaid
+```
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -65,7 +65,7 @@ public class FilterConfig {
 
 4. Create a simple controller
 
-```mermaid
+```
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
