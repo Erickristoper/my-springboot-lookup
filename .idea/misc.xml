@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client-book/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client-borrow/pom.xml" />
+        <option value="$PROJECT_DIR$/openfeign-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/openfeign-product-service/pom.xml" />
       </list>
     </option>
   </component>

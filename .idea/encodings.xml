@@ -6,5 +6,7 @@
     <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/filterchain-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oauth2-github/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openfeign-order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openfeign-product-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
